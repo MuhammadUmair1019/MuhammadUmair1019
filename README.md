@@ -20,7 +20,6 @@
 - Python
 - Javascript
 
-- HTML
 ### (Styling)
 - CSS 
 - Sass/Scss
