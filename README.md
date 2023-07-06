@@ -1,18 +1,78 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+### Hi there I am Muhammad Umair <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Full Stack Developer from Pakisan :pakistan: 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadUmair1019&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadUmair1019" /> </p>
+### :heavy_check_mark: Full Stack Developer 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadUmair1019" alt="MuhammadUmair1019" /></a> </p>
 
-- 💬 Ask me about **C++, data structures and algorithms**
+## 📫 How to reach me:  
 
-- 📫 How to reach me **Muhammadumair1019@gmail.com**
+- - :octocat: Github              => :link:	https://github.com/MuhammadUmair1019/
+- - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/muhammad-umair-a6792b199
+<!-- - - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid -->
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-umair-a6792b199/](https://www.linkedin.com/in/muhammad-umair-a6792b199/)
+### :medal_sports: Projects :
+- **Portolio link => :link: http://portfolio-umair.vercel.app/**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadUmair1019&show_icons=true&locale=en&layout=compact" alt="farhan523" /></p>
+## Technologies I Know
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadUmair1019&show_icons=true&locale=en" alt="farhan523" /></p>
+### (Languages)
+- C++ 
+- C#
+- Python
+- Javascript
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmair1019&" alt="MuhammadUmair1019" /></p>
+- HTML
+### (Styling)
+- CSS 
+- Sass/Scss
+- Bootstrap
+- Styled components
+- Material UI
+- Materialize
+- Tailwindcss
+
+### (Front-End)
+- Javascript (Advanced)
+- Typescript
+- React Js (CSR)
+- Gatsby Js (SSG)
+- Next Js (SSR)
+- PWA
+
+### (Back-End)
+- Node Js 
+- Express Js 
+- Rest API
+- GraphQl 
+- Serverless Lambda Functions
+
+### (Databases)
+- MongoDB 
+- Mirage Js
+- FaunaDB 
+- Firebase (Firestore)
+- Postgress
+
+
+### (CMS)
+- Strapi
+- Contentful
+- DatoCMS
+
+### (Ecommerce)
+- Stripe (Payments)
+
+### (Tools)
+- Figma
+- Balsamiq
+- Git (and Github) 
+- Web Animations
+- CI/CD
+- Storybook
+
+### (Deployment)
+- Surge
+- Netlify
+- Heroku
+- Firebase 
+- Vercel
+- CPanel
