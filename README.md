@@ -11,11 +11,3 @@
 
 ### :medal_sports: Projects :
 - **Portolio link => :link: http://portfolio-umair.vercel.app/**
-
-## Technologies I Know
-
-### (Languages)
-- C++ 
-- C#
-- Python
-- Javascript
